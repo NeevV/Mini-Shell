@@ -1,5 +1,6 @@
 # Mini-Shell
-A replica of the bash shell, implemented in the C programming language, designed to enhance understanding of systems programming and shell functionalities.
+Designed and implemented a C-based mini-shell with support for command execution, input parsing, built-in commands, and process management using system calls.
+
 
 Features:
 - Basic Shell Implementation
